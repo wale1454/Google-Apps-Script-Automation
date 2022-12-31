@@ -1,5 +1,5 @@
 
-function secondFunc(){
+function AppsScriptAutomation(){
 
 // Calls the api and uses the response to create and populate a google docs document.
 
